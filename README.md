@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Software Engineer who's refining her skills in Node.js, React, React Native, Javascript.<br>Currently learning Python and Java. <br>Fully invested in automation and awesome user interfaces.
+Full-Stack Software Engineer who's proficient in Node.js, React, React Native, Javascript.<br>I'm always learning! Currently learning Python and Java. <br>Fully invested in automation and awesome user interfaces.
 
 
 ## 🌐 Socials:

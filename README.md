@@ -1,7 +1,12 @@
 # 💫 About Me:
-Full-Stack Software Engineer proficient in: Node.js, React, React Native, Typescript, Javascript, Python.
+Senior Full-Stack Software Engineer architecting and delivering scalable web applications using JavaScript,
+TypeScript, React, and Node.js. Proven technical leader with hands-on expertise in AI-augmented development
+workflows, including Claude API and CLI integrations, AI-powered GitHub Actions pipelines, and autonomous agent
+tooling using Claude’s native agents, commands, and hooks framework, all of which measurably accelerate team
+velocity and code quality. Experienced owning features end-to-end across startup and enterprise environments,
+with a strong track record of cross-functional collaboration, system architecture, and production-grade delivery.
+
 <br>I'm always learning!
-<br>Fully invested in automation and awesome user interfaces.
 
 
 ## 🌐 Socials:

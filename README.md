@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack Software Engineer who's proficient in Node.js, React, React Native, Typescript, Javascript, Python.<br>I'm always learning! Currently learning DevOps and Java. <br>Fully invested in automation and awesome user interfaces.
+Full-Stack Software Engineer proficient in: Node.js, React, React Native, Typescript, Javascript, Python.
+<br>I'm always learning!
+<br>Fully invested in automation and awesome user interfaces.
 
 
 ## 🌐 Socials:
